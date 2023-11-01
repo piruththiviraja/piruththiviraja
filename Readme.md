@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=b8bb26&lines=Welcome+to+my+github+profile!)](https://git.io/typing-svg)
 
 ## About Me
-👋 Hi, I'm Piruththivi Raja. I'm currently pursuing my Bachelor's Degree in Information Technology at Rajalakshmi Engineering College (Tamil Nadu, India).
+👋 Hi, I'm Piruththivi Raja. 
+ I'm currently pursuing my Bachelor's Degree in Information Technology at Rajalakshmi Engineering College 
 
 ## Languages/Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -33,11 +34,11 @@
 [![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=tutanota&logoColor=white)](https://tutanota.com/)
 
 ## My Github Stats 
-![Sajay's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajayprakash&theme=tokyonight)
+![Piruththivi Raja 's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajayprakash&theme=tokyonight)
 <br>
 
 ----
 
 <br>
 
-![Sajay's github stats](https://github-readme-stats.vercel.app/api?username=sajayprakash&theme=tokyonight)
+![Piruththivi Raja 's github stats](https://github-readme-stats.vercel.app/api?username=sajayprakash&theme=tokyonight)
