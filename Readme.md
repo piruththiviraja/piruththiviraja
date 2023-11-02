@@ -34,11 +34,11 @@
 [![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=tutanota&logoColor=white)](https://tutanota.com/)
 
 ## My Github Stats 
-![Piruththivi Raja 's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajayprakash&theme=tokyonight)
+![Piruththivi Raja 's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piruththiviraja&theme=tokyonight)
 <br>
 
 ----
 
 <br>
 
-![Piruththivi Raja 's github stats](https://github-readme-stats.vercel.app/api?username=sajayprakash&theme=tokyonight)
+![Piruththivi Raja 's github stats](https://github-readme-stats.vercel.app/api?username=piruththiviraja&theme=tokyonight)
